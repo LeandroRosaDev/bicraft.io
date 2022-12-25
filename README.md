@@ -22,7 +22,7 @@ e um editor de Texto como o <a target="_blank" href="https://code.visualstudio.c
 $git clone <https://github.com/LeandroRosaDev/bicraft.io>
 
 #Acesse a pasta do projeto no terminal/CMD
-$cd portifolio
+$cd bicraft
 
 #instale as dependencias
 $yarn
